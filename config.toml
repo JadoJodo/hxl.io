@@ -2,3 +2,19 @@ baseURL = 'https://hxl.io/'
 languageCode = 'en-us'
 title = 'HXL'
 theme = "timeline"
+[author]
+  name = "Jordan Finnigan"
+
+[params]
+    description = "Personal blog of Jordan Finnigan, a developer in Richmond, VA"
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/JadoJodo"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://linkedin.com/in/jordanfinnigan"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/JadoJodo"
