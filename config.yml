@@ -52,7 +52,7 @@ params:
     # safari_pinned_tab: "/images/favicon/favicon-32x32.png"
 
   label:
-    text: "Home"
+    text: ""
     icon: /images/logo.png
     iconHeight: 35
 
