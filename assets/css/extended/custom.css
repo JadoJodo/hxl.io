@@ -2,3 +2,7 @@
     display: inline-table;
     border-radius: 0% !important;
 }
+
+.profile .logo a {
+    font-size: 0;
+}
