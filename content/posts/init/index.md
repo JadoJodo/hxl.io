@@ -13,6 +13,4 @@ cover:
     relative: true
 ---
 
-# ...
-
 All is new.
