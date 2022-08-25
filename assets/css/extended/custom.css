@@ -1,8 +1,8 @@
 .profile img {
     display: inline-table;
-    border-radius: 0% !important;
+    border-radius: 0%;
 }
 
 .logo a {
-    font-size: 0px !important;
+    font-size: 0px;
 }
