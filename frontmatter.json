@@ -1,5 +1,17 @@
 {
   "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.framework.id": "hugo",
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "archetypes",
+      "path": "[[workspace]]/archetypes"
+    },
+    {
+      "title": "posts",
+      "path": "[[workspace]]/content/posts"
+    }
+  ],
   "frontMatter.taxonomy.contentTypes": [
     {
       "name": "default",
@@ -72,23 +84,3 @@
         }
       ]
     }
-  ],
-  "frontMatter.framework.id": "hugo",
-  "frontMatter.content.publicFolder": "static",
-  "frontMatter.content.pageFolders": [
-    {
-      "title": "posts",
-      "path": "[[workspace]]/content/posts"
-    },
-    {
-      "title": "PaperMod",
-      "path": "[[workspace]]/themes/PaperMod"
-    },
-    {
-      "title": "archetypes",
-      "path": "[[workspace]]/archetypes"
-    }
-  ],
-  "frontMatter.taxonomy.tags": [],
-  "frontMatter.taxonomy.categories": []
-}
