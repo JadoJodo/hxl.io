@@ -3,6 +3,9 @@ title: HXL
 paginate: 5
 theme: "PaperMod"
 
+permalinks:
+  posts: "/:year/:month/:title/"
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -96,7 +99,7 @@ params:
     hiddenInList: false # hide on list pages and home
     hiddenInSingle: false # hide on single page
     responsiveImages: true
-    
+
   editPost:
     URL: "https://github.com/JadoJodo/hxl.io/content"
     Text: "Suggest Changes" # edit text
