@@ -63,7 +63,7 @@ params:
     subtitle: "(A)musings by Jordan Finnigan"
     imageUrl: "https://hxl.io/images/logo.png"
     imageWidth: 216
-    imageHeight: 120
+    imageHeight: 150
     imageTitle: "HXL Logo"
     buttons:
       - name: Posts
