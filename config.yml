@@ -70,6 +70,8 @@ params:
     buttons:
       - name: Posts
         url: posts
+      - name: Reviews
+        url: reviews
       - name: Tags
         url: tags
 
