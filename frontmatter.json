@@ -42,6 +42,33 @@
           "title": "Categories",
           "name": "categories",
           "type": "categories"
+        },
+        {
+          "title": "cover",
+          "name": "cover",
+          "type": "fields",
+          "fields": [
+            {
+              "title": "image",
+              "name": "image",
+              "type": "string"
+            },
+            {
+              "title": "alt",
+              "name": "alt",
+              "type": "string"
+            },
+            {
+              "title": "caption",
+              "name": "caption",
+              "type": "string"
+            },
+            {
+              "title": "relative",
+              "name": "relative",
+              "type": "boolean"
+            }
+          ]
         }
       ]
     }
