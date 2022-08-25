@@ -59,8 +59,8 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: HXL
-    subtitle: "(A)musings by Jordan Finnigan"
+    title: "Jordan Finnigan"
+    subtitle: "Amusing Musings"
     imageUrl: "https://hxl.io/images/logo.png"
     imageWidth: 216
     imageHeight: 150
