@@ -52,7 +52,6 @@ params:
     # safari_pinned_tab: "/images/favicon/favicon-32x32.png"
 
   label:
-    text: ""
     icon: /images/logo.png
     iconHeight: 35
 
@@ -94,9 +93,10 @@ params:
 
   cover:
     hidden: true # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
-
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+    responsiveImages: true
+    
   editPost:
     URL: "https://github.com/JadoJodo/hxl.io/content"
     Text: "Suggest Changes" # edit text
