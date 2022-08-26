@@ -13,4 +13,4 @@ cover:
     relative: true
 ---
 
-All is new.
+All is new (again).

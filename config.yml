@@ -6,7 +6,8 @@ theme: "PaperMod"
 permalinks:
   posts: "/posts/:year/:month/:title/"
   reviews: "/reviews/:year/:month/:title/"
-  links: "/links/:year/:month/:day/title/"
+  links: "/links/:year/:month/:day/:title/"
+  updates: "/updates/:year/:month/:day/:title/"
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -74,8 +75,8 @@ params:
         url: posts
       - name: Reviews
         url: reviews
-      - name: Tags
-        url: tags
+      - name: Updates
+        url: updates
       - name: Links
         url: links
 
@@ -124,11 +125,11 @@ params:
 menu:
   main:
     - identifier: categories
-      name: categories
+      name: Categories
       url: /categories/
       weight: 10
     - identifier: tags
-      name: tags
+      name: Tags
       url: /tags/
       weight: 20
     # - identifier: example
