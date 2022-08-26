@@ -4,7 +4,7 @@ description: "A Book Review"
 date: 2022-08-25T18:38:49Z
 preview: ""
 draft: true
-tags: [reviews, books]
+tags: [non-fiction, management]
 categories: [Reviews]
 cover:
     image: "cover.jpg"

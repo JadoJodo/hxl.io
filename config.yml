@@ -4,7 +4,9 @@ paginate: 5
 theme: "PaperMod"
 
 permalinks:
-  posts: "/:year/:month/:title/"
+  posts: "/posts/:year/:month/:title/"
+  reviews: "/reviews/:year/:month/:title/"
+  links: "/links/:year/:month/:day/title/"
 
 enableRobotsTXT: true
 buildDrafts: false

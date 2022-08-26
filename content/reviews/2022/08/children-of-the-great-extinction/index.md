@@ -3,7 +3,7 @@ title: Children of the Great Extinction
 description: "The 2022 album from Betraying The Archetype"
 date: 2022-08-26T12:48:55Z
 preview: ""
-draft: true
+draft: false
 tags: [ albums, metal, music]
 categories: [ Reviews ]
 cover:
