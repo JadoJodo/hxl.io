@@ -7,7 +7,7 @@ draft: "false"
 tags: []
 categories: []
 cover:
-    image: "quaritsch-photography-3xQ65cknLPk-unsplash.jpg"
+    image: "cover.jpg"
     alt: "A computer with a blank, white screen"
     caption: ""
     relative: true
