@@ -3,7 +3,7 @@ title: Committed
 description: "On the importance of git commit messages"
 date: 2020-12-10T11:42:53Z
 preview: ""
-draft: true
+draft: false
 tags: [ clean-code, software, version-control ]
 categories: [ Posts ]
 cover:
