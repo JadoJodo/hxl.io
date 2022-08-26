@@ -74,6 +74,8 @@ params:
         url: reviews
       - name: Tags
         url: tags
+      - name: Links
+        url: links
 
   # home-info mode
   # homeInfoParams:
