@@ -4,9 +4,10 @@ paginate: 5
 theme: "PaperMod"
 
 permalinks:
+  links: "/links/:year/:month/:day/:title/"
   posts: "/posts/:year/:month/:title/"
   reviews: "/reviews/:year/:month/:title/"
-  links: "/links/:year/:month/:day/:title/"
+  theos: "/theos/:year/:month/:title/"
   updates: "/updates/:year/:month/:day/:title/"
 
 enableRobotsTXT: true
@@ -79,6 +80,8 @@ params:
         url: updates
       - name: Links
         url: links
+      - name: Theos
+        url: theos
 
   # home-info mode
   # homeInfoParams:
