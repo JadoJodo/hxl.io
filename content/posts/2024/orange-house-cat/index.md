@@ -1,5 +1,5 @@
 ---
-title: "Orange Housecat"
+title: "Orange House Cat"
 description: "Death by LLM"
 preview: "reCAPTCHAs are weird."
 tags: ["LLMs", "Google"]
