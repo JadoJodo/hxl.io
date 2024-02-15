@@ -2,7 +2,7 @@
 title: "Orange Housecat"
 description: "Death by LLM"
 preview: "reCAPTCHAs are weird."
-tags: ["llm", "google"]
+tags: ["LLMs", "Google"]
 categories: ["Posts"]
 date: 2024-02-15T19:42:49Z
 draft: false
