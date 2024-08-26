@@ -15,14 +15,14 @@ cover:
 
 ## Synopsis
 
-This book essentially mixes {{<extlink href="https://www.wikiwand.com/en/Black_Death" title="The Black Death">}} and a spiritual war between Heaven and Hell.  
+This book essentially mixes {{< extlink href="https://www.wikiwand.com/en/Black_Death" >}}The Black Death{{< /extlink >}} and a spiritual war between Heaven and Hell.
 
 ## Review
 
-I really enjoyed this book. I 
+I really enjoyed this book. I
 
 ## Stats
 
-__Start Date:__ 
+__Start Date:__
 
 __Rating:__ ★★★

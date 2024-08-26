@@ -21,7 +21,7 @@ Betraying The Archetype's Terminate Damnation was one of the first Christian "de
 
 ### The Artwork
 
-BTA's album art has always been great, being done by {{< extlink href="http://www.danseagrave.com/" title="Dan Seagrave" >}}. This album is no exception (as you can see above). 
+BTA's album art has always been great, being done by {{< extlink href="http://www.danseagrave.com/" >}}Dan Seagrave"{{< /extlink >}}. This album is no exception (as you can see above).
 
 ### The Story
 This release seems to be a concept album centered around a sci-fi story of explorers lost on a planet far from home. The lyrics themselves, however, could hint at deeper theological meaning:
@@ -35,7 +35,7 @@ This release seems to be a concept album centered around a sci-fi story of explo
 That being said, it's possible that I'm simply reading into the lyrics, given the bands history and my personal beliefs; And while I'm not so boring as to think that Christians can't create things that aren't directly related to theology, it is certainly fun when hard sci-fi (which I love) can act as a metaphor for deeper things.
 
 ### The Music
-This album is a bit of a mixture of each of their previous albums. The Phantom Field and The Curse both harken back to Terminate Damnation. The Lost Colony and The Calling feel closer to their Dichotomy (2008) and Celestial Completion (2010) albums. 
+This album is a bit of a mixture of each of their previous albums. The Phantom Field and The Curse both harken back to Terminate Damnation. The Lost Colony and The Calling feel closer to their Dichotomy (2008) and Celestial Completion (2010) albums.
 
 Highlights:
 
@@ -48,7 +48,7 @@ Highlights:
 
 ★★★
 
---- 
+---
 ## Listen
 
 {{< rawhtml >}}
