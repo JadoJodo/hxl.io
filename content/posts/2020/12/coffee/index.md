@@ -36,8 +36,9 @@ The first dripper I bought was a variation of {{< extlink href="https://amzn.to/
 1. The bottom of the cone didn't always fit into my mugs.
 2. It was made of plastic (very hot liquid + plastic isn't ideal).
 3. Plastic doesn't really pre-warm.
+<img src="/images/filter.png" style="float:right; padding-left: 10px; padding-top: 10px; padding-bottom: 10px; max-width:150px"/>
 
-After struggling with the basic plastic one, I moved on to a glass dripper ({{< extlink href="https://amzn.to/33VOT37" >}}Kalita Wave {{< /extlink >}}) shortly thereafter. While it was much better, It required a much courser grind setting due to how slowly the water dripped. <img src="/filter.png" style="float:right"/> In addition, due to it's flat bottom, the filters it uses are basket-style and can cause grounds to "stick" in the folds. This meant I had to fish them out with a spoon during the brew. Bad news.
+After struggling with the basic plastic one, I moved on to a glass dripper ({{< extlink href="https://amzn.to/33VOT37" >}}Kalita Wave{{< /extlink >}}). While it was much better, It required a much courser grind setting due to how slowly the water dripped. In addition, due to it's flat bottom, the filters it uses are basket-style and can cause grounds to "stick" in the folds. This meant I had to fish them out with a spoon during the brew. Bad news.
 
 ## Still Not A Pro
 
