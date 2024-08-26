@@ -13,7 +13,7 @@ There's a weird edge case to using Large Language Models (LLMs) trained by human
 Here's an example:
 
 {{< figure
-  src="bicycles.png"
+  src="/posts/2024/02/orange-house-cat/bicycles.jpg"
   alt="A reCAPTCHA grid showing bicycles" default=true height="600px">}}
 
 I've seen a few reCAPTCHAs come up like this with one of those motorbikes that aren't quite a full motorcycle (so they look bicycle-ish), but they are definitely NOT a bicycle. reCAPTCHA wants me to select the bicycle. I can't pick "nothing", because it "knows" there's a bicycle in there (and skipping doesn't teach it otherwise); But if I pick what it wants me to pick, I'm (incorrectly) reinforcing that this thing (that's not a bicycle) is, in fact, a bicycle. And since the vast, vast majority of people don't know that they're training a LLM, they just pick the thing that Google wants them to pick so that they can move on with their lives.
