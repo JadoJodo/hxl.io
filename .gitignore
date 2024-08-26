@@ -2,3 +2,4 @@ core.*
 .hugo_build.lock
 resources/_gen/
 public/
+.DS_Store
