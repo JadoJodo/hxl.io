@@ -1,4 +1,3 @@
-# syntax=docker/dockerfile:1
 FROM mcr.microsoft.com/devcontainers/base:${templateOption:imageVariant}
 
 ARG USER=vscode
