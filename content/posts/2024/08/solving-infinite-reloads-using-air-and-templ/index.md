@@ -1,5 +1,5 @@
 ---
-title: "Solving Infinite Reloads Using Air and Templ"
+title: "Solving Infinite Reloads When Using Air and Templ"
 description: "Misadventures in using hot reloads in Go"
 tags: ["Go", "Programming", "Fixes" ]
 categories: ["Posts"]
