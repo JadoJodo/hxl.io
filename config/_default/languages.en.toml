@@ -15,13 +15,13 @@ copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
 name = "Jordan Finnigan"
-email = "j@hxl.io"
+email = "hello@jdo.sh"
 image = "images/me.png"
 imageQuality = 96
 headline = "The Amusing Musings Of"
 bio = "Disciple && Husband && Father && Dev && WeirdCoffeePerson && <br> Metalhead && Novice Chef && Sticker Aficionado"
 links = [
-    { email = "mailto:hello@hxl.io" },
+    { email = "mailto:hello@jdo.sh" },
     #     { link = "https://link-to-some-website.com/" },
     #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     #     { apple = "https://www.apple.com" },
