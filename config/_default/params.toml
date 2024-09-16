@@ -148,11 +148,11 @@ cardViewScreenWidth = false
 # enableTrackEvent = true
 
 [buymeacoffee]
-identifier = "jordanfinnigan"
-globalWidget = true
-globalWidgetMessage = "👋"
-globalWidgetColor = "#FFDD00"
-globalWidgetPosition = "Right"
+# identifier = "jordanfinnigan"
+# globalWidget = true
+# globalWidgetMessage = "👋"
+# globalWidgetColor = "#FFDD00"
+# globalWidgetPosition = "Right"
 
 [verification]
 # google = ""
